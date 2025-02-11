@@ -2,34 +2,34 @@
     "Academic Free License v3.0": {
         "identifier": "AFL-3.0"
     },
-    "Apache license 2.0": {
+    "Apache License 2.0": {
         "identifier": "Apache-2.0"
     },
-    "Artistic license 2.0": {
+    "Artistic License 2.0": {
         "identifier": "Artistic-2.0"
     },
-    "BSD 2-clause \"Simplified\" license": {
+    "BSD 2-Clause \"Simplified\" License": {
         "identifier": "BSD-2-Clause"
     },
-    "BSD 3-clause \"New\" or \"Revised\" license": {
+    "BSD 3-Clause \"New\" or \"Revised\" License": {
         "identifier": "BSD-3-Clause"
     },
-    "BSD 3-clause Clear license": {
+    "BSD 3-Clause Clear License": {
         "identifier": "BSD-3-Clause-Clear"
     },
-    "BSD 4-clause \"Original\" or \"Old\" license": {
+    "BSD 4-Clause \"Original\" or \"Old\" License": {
         "identifier": "BSD-4-Clause"
     },
-    "BSD Zero-Clause license": {
+    "BSD Zero Clause License": {
         "identifier": "0BSD"
     },
     "Boost Software License 1.0": {
         "identifier": "BSL-1.0"
     },
-    "Creative Commons Attribution 4.0": {
+    "Creative Commons Attribution 4.0 International": {
         "identifier": "CC-BY-4.0"
     },
-    "Creative Commons Attribution ShareAlike 4.0": {
+    "Creative Commons Attribution Share Alike 4.0 International": {
         "identifier": "CC-BY-SA-4.0"
     },
     "Creative Commons Zero v1.0 Universal": {
@@ -65,13 +65,13 @@
     "GNU Lesser General Public License v3.0": {
         "identifier": "LGPL-3.0"
     },
-    "ISC": {
+    "ISC License": {
         "identifier": "ISC"
     },
     "LaTeX Project Public License v1.3c": {
         "identifier": "LPPL-1.3c"
     },
-    "MIT": {
+    "MIT License": {
         "identifier": "MIT"
     },
     "Microsoft Public License": {
@@ -95,7 +95,7 @@
     "University of Illinois/NCSA Open Source License": {
         "identifier": "NCSA"
     },
-    "zLib License": {
+    "zlib License": {
         "identifier": "Zlib"
     }
 }
